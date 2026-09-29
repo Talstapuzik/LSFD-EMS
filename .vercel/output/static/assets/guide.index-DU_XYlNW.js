@@ -1,0 +1,1 @@
+import{a as e,t}from"./useNavigate-cKRKrHp2.js";var n=e(),r=()=>(0,n.jsx)(t,{to:`/guide/$slug`,params:{slug:`intro`}});export{r as component};

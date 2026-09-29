@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/guide/bls-cpr",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "EMS Field Manual: BLS и ALS",
+      "hasCanvas": false,
+      "bodyTextLen": 4380,
+      "bodyTextHash": "4851df85572d09d67eeff2d0e9a88df005b927a903c6882429452dcedad30ddb",
+      "bodyTextPrefix": "EMS FIELD MANUAL BLS и ALS Зачёт Печать / PDF ВВЕДЕНИЕ Зачем нуж",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/cpr-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "EMS Field Manual: BLS и ALS",
+      "hasCanvas": false,
+      "bodyTextLen": 3805,
+      "bodyTextHash": "8b469a0dcac101588ad75eefc9cf9c5177cba8e7ec0855582805e7e5c3e83670",
+      "bodyTextPrefix": "EMS FIELD MANUAL BLS и ALS Зачёт ГЛАВА 1 · BLS прочитано Сердечн",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/cpr-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/cpr-smoke.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "EMS Field Manual: BLS и ALS",
+      "hasCanvas": false,
+      "bodyTextLen": 1241,
+      "bodyTextHash": "cccfcf470b48f8d652f12f00dbdc68718f3752944909b0344d65b81ba037995a",
+      "bodyTextPrefix": "LOS SANTOS EMS Field Manual AHA / ERC 2025 УЧЕБНОЕ ПОСОБИЕ СОТРУ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "EMS Field Manual: BLS и ALS",
+      "hasCanvas": false,
+      "bodyTextLen": 1198,
+      "bodyTextHash": "6bd478193ed14395f00b3354bf02bb9b58656ee5af022378dc17424842604dde",
+      "bodyTextPrefix": "УЧЕБНОЕ ПОСОБИЕ СОТРУДНИКА EMS Basic Life Support и Advanced Lif",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
